@@ -1,0 +1,10 @@
+.MuiTypography-body1{
+    font-weight: 500 !important;
+}
+.main_nav{
+
+    border-bottom-style: solid;
+    border-bottom-color: #ededed;
+    border-bottom-width: 3px;
+    
+}
